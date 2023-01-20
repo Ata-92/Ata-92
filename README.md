@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **atakal92@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/14ZZTPp8vCQ36kn2r7qXeI2xN54Wx5KFY/edit](https://docs.google.com/document/d/14ZZTPp8vCQ36kn2r7qXeI2xN54Wx5KFY/edit)
+- 📄 Know about my experiences [https://docs.google.com/document/d/14ZZTPp8vCQ36kn2r7qXeI2xN54Wx5KFY/edit](https://docs.google.com/document/d/11oSohHA9_WtDnDcvS6ovi1YskpPh2OXV7byShqkd0OE/edit)
 
 - ⚡ Fun fact **I m a huge fan of Pink Floyd**
 
