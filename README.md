@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Atahan A. Saltık</h1>
 <h3 align="center">An enthusiast who loves IT as a whole.</h3>
 
-- 🌱 I’m currently learning **Full Stack Development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Ata-92](https://github.com/Ata-92)
 
-- 💬 Ask me about **React, JavaScript, Python**
+- 💬 Ask me about **React, TypeScript, JavaScript**
 
 - 📫 How to reach me **atakal92@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/11oSohHA9_WtDnDcvS6ovi1YskpPh2OXV7byShqkd0OE](https://docs.google.com/document/d/11oSohHA9_WtDnDcvS6ovi1YskpPh2OXV7byShqkd0OE)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/12h3w92nm848RJXrz5U8C0QC3R75XQ2tD98aGkz11pbI/edit?usp=sharing)
 
-- ⚡ Fun fact **I m a huge fan of Pink Floyd**
+- ⚡ Fun fact **I m a huge fan of Mark Knopfler**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
